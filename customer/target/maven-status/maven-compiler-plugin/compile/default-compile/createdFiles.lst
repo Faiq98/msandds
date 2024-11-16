@@ -1,7 +1,0 @@
-com\fhm\customer\CustomerApplication.class
-com\fhm\customer\CustomerService.class
-com\fhm\customer\CustomerRepository.class
-com\fhm\customer\Customer.class
-com\fhm\customer\CustomerController.class
-com\fhm\customer\Customer$CustomerBuilder.class
-com\fhm\customer\CustomerRegistrationRequest.class
